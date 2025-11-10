@@ -1,1 +1,1 @@
-This is just a test.
+Unloaded tabs becomes grayed out. Sunglasso.
